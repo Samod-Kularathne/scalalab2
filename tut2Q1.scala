@@ -4,8 +4,11 @@ object VariableExpressions {
     var f, g: Float = 0.0f
     var c: Char = ' '
 
-    k = i = j = 2
-    m = n = 5
+    k = 2
+    i = 2
+    j = 2
+    m = 5
+    n = 5
     f = 12.0f
     g = 4.0f
     c = 'X'
